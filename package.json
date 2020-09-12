@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "express": "4.17.1"
+  },
+  "name": "express-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:mkolakowska/express-app.git",
+  "author": "Malgorzata Kolakowska <m.a.kolakowska@googlemail.com>",
+  "license": "MIT"
+}
