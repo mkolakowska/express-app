@@ -1,2 +1,3 @@
 # express-app
-Fullstack App based on Express
+
+Fullstack App using Express.
